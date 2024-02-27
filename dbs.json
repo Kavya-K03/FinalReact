@@ -1,0 +1,22 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "email": "abc@gmail.com",
+      "password": "123",
+      "firstname": "saksham",
+      "lastname": "chauhan",
+      "gender": "male",
+      "mobile": "123456789"
+    },
+    {
+      "email": "kavya@gmail.com",
+      "password": "1234",
+      "firstName": "kavya",
+      "lastName": "kk",
+      "gender": "female",
+      "phone": "7530017769",
+      "id": 2
+    }
+  ]
+}
